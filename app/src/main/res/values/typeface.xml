@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_drawer_name_list">
+        <item>Home</item>
+        <item>文字转语音</item>
+        <item>扫一扫</item>
+        <item>GPS</item>
+        <item>消息推送</item>
+        <item>联系人</item>
+        <item>Volley</item>
+        <item>ImageLoader</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_icon_list">
+        <item>\uf08d</item>
+        <item>\uf00e</item>
+        <item>\uf07d</item>
+        <item>\uf07b</item>
+    </string-array>
+
+</resources>
